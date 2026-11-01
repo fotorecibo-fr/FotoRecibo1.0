@@ -1,17 +1,23 @@
 {
   "expo": {
-    "name": "fotorecibo10",
+    "name": "Xavi's Snaps",
     "slug": "fotorecibo10",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
     "splash": {
+      "image": "./assets/icon.png",
       "backgroundColor": "#ffffff",
       "resizeMode": "contain"
     },
     "android": {
       "package": "com.fotorecibo.app",
-      "versionCode": 7
+      "versionCode": 8,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      }
     },
     "extra": {
       "eas": {
