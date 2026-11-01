@@ -1,0 +1,12 @@
+{
+  "name": "foto-recibo",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "~51.0.15",
+    "expo-camera": "~15.0.14",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  }
+}
