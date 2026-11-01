@@ -4,6 +4,13 @@
     "slug": "foto-recibo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "android": { "package": "com.fotorecibo.app" }
+    "android": {
+      "package": "com.fotorecibo.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "38cb5b23-5179-42dc-aebc-4f17223f161e"
+      }
+    }
   }
 }
